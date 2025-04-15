@@ -6,6 +6,7 @@ datePublished: Tue Apr 15 2025 11:50:11 GMT+0000 (Coordinated Universal Time)
 cuid: cm9ifxr1m003c09jv1eil4wh1
 slug: mastering-your-digital-presence
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Tk9m_HP4rgQ/upload/a1986966ba118115176b9aa0e693b386.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1744732514207/0571ce86-3e71-4b87-896c-e1e03a104208.jpeg
 tags: social-mediasocial-media-presencemastering-social-media-for-job-hunters
 
 ---
