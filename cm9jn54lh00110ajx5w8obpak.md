@@ -6,6 +6,7 @@ datePublished: Wed Apr 16 2025 07:59:38 GMT+0000 (Coordinated Universal Time)
 cuid: cm9jn54lh00110ajx5w8obpak
 slug: how-to-create-a-standout-profile-for-remote-and-freelance-jobs
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/kwzWjTnDPLk/upload/bccaa869c367eb81f7010f4d0491a868.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1744790442729/f47794da-04a8-4792-b00d-26d78492b4e6.jpeg
 tags: freelance-jobsremote-jobsfreelancing-jobs-on-jobfinders
 
 ---
