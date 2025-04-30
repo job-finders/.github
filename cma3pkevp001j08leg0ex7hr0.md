@@ -6,6 +6,7 @@ datePublished: Wed Apr 30 2025 09:02:54 GMT+0000 (Coordinated Universal Time)
 cuid: cma3pkevp001j08leg0ex7hr0
 slug: how-to-handle-job-rejection-a-guide-for-sa-graduates
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GE2PMQZKOso/upload/e963ad80c540068915dc2d2b42b1eefa.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1746003927906/fd56b024-2143-4f3f-84cd-1590501978b9.jpeg
 tags: job-rejection-advice-south-africa, dealing-with-job-rejection-as-a-graduate, bounce-back-from-rejection, career-tips-for-south-african-graduates, first-job-rejection-tips, job-hunting-mental-health, south-africa-graduate-job-market, improve-after-job-rejection, job-search-mindset-south-africa, motivation-for-job-seekers
 
 ---
