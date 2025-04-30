@@ -6,6 +6,7 @@ datePublished: Wed Apr 30 2025 07:44:37 GMT+0000 (Coordinated Universal Time)
 cuid: cma3mrqa9001s09l76v199vhl
 slug: how-to-gain-work-experience-without-a-job-a-guide-for-south-african-graduates
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SYTO3xs06fU/upload/30b8676d2ce8683ea433504c12601461.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1745999314706/53344ba9-df38-4276-a8b0-a4d939cb2ca0.jpeg
 tags: gain-work-experience-without-a-job, how-to-build-experience-as-a-graduate, work-experience-for-south-african-graduates, graduate-job-search-south-africa, how-to-get-a-job-without-experience
 
 ---
