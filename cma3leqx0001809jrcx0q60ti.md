@@ -6,6 +6,7 @@ datePublished: Wed Apr 30 2025 07:06:32 GMT+0000 (Coordinated Universal Time)
 cuid: cma3leqx0001809jrcx0q60ti
 slug: how-to-write-a-winning-resume-as-a-recent-graduate-south-african-edition
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FHnnjk1Yj7Y/upload/f781eae104b994892626f094999ce27f.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1745996920521/ee9e2051-e560-4cfe-83c9-1f3bd856ffca.jpeg
 tags: writing-a-resume-in-south-africacv-writing-south-africa
 
 ---
